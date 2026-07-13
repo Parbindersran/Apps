@@ -1,10 +1,4 @@
 {
-  "name": "Sran Source",
-  "identifier": "app.sran.altstore",
-  "sourceURL": "https://github.com/Parbindersran/Apps/blob/main/apps.json",
-  "subtitle": "Home of Sram, free and open source for iOS and iPadOS",
-  "description": "This is the AltStore Source for Aidoku, free and open source manga reader for iOS and iPadOS",
-{
   "apps": [
     {
       "name": "YouTube",
