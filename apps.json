@@ -1,0 +1,15 @@
+json{
+  "name": "My Custom Esign Repo",
+  "description": "A collection of my favorite IPAs",
+  "apps": [
+    {
+      "name": "App Name",
+      "bundleIdentifier": "com.developer.appname",
+      "version": "1.0.0",
+      "size": "5000000",
+      "downloadURL": "https://githubusercontent.com",
+      "iconURL": "https://example.com",
+      "versionDescription": "Initial release in my repo."
+    }
+  ]
+}
